@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @profpaulamonique
-- Repósitório destinado as aulas de pensamento computacional do Colégio Estadual Anita Aldeti Pacheco
+- Repósitório as aulas de pensamento computacional do Colégio Estadual Anita Aldeti Pacheco
